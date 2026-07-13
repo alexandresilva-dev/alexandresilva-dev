@@ -9,7 +9,7 @@ Atualmente a procura da minha primeira oportunidade profissional na area.
 **Neste momento:** a candidatar-me a posicoes de working student / estagio em engenharia de software.
 **A aprender:** Python e TypeScript aplicados a automacao e integracoes com APIs.
 **Fala comigo sobre:** desenvolvimento web, jogos em Unity, automacao, IA aplicada.
-**Contacto:** micassousasilva6@gmail.com
+**Contacto:** alexandremiguelsilva112002@gmail.com
 
 ---
 
