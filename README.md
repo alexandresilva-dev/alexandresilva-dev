@@ -25,10 +25,3 @@ Currently looking for my first professional opportunity in the field.
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### Statistics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandresilva-dev&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresilva-dev&layout=compact&hide_border=true)
