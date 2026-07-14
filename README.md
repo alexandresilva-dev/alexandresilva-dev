@@ -1,19 +1,19 @@
-### Ola, sou o Alexandre
+### Hi, I'm Alexandre
 
-Estudante de Engenharia Informatica, com interesse em automacao, scripting e integracao de sistemas via APIs. Gosto de aprender fazendo - a maior parte do que sei vem de projetos praticos, nao so de aulas.
+Computer Engineering student, interested in automation, scripting and API integrations. I like learning by doing, most of what I know comes from hands-on projects, not just classes.
 
-Atualmente a procura da minha primeira oportunidade profissional na area.
-
----
-
-**Neste momento:** a candidatar-me a posicoes de working student / estagio em engenharia de software.
-**A aprender:** Python e TypeScript aplicados a automacao e integracoes com APIs.
-**Fala comigo sobre:** desenvolvimento web, jogos em Unity, automacao, IA aplicada.
-**Contacto:** alexandremiguelsilva112002@gmail.com
+Currently looking for my first professional opportunity in the field.
 
 ---
 
-### Tecnologias
+**Right now:** applying to working student / internship positions in software engineering.
+**Learning:** Python and TypeScript applied to automation and API integrations.
+**Talk to me about:** web development, Unity games, automation, applied AI.
+**Contact:** alexandremiguelsilva112002@gmail.com
+
+---
+
+### Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -28,7 +28,7 @@ Atualmente a procura da minha primeira oportunidade profissional na area.
 
 ---
 
-### Estatisticas
+### Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandresilva-dev&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresilva-dev&layout=compact&hide_border=true)
