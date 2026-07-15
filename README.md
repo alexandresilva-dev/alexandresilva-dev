@@ -1,13 +1,13 @@
 ### Hi, I'm Alexandre
 
-Computer Engineering student, interested in automation, scripting and API integrations. I like learning by doing, most of what I know comes from hands-on projects, not just classes.
+Computer Engineering student focused on full-stack web development, with a background in automation, scripting and API integrations. I like learning by doing, most of what I know comes from hands-on projects, not just classes.
 
 Currently looking for my first professional opportunity in the field.
 
 ---
 
 **Right now:** applying to working student / internship positions in software engineering.
-**Learning:** Python and TypeScript applied to automation and API integrations.
+**Learning:** full-stack web development — Java/Spring Boot, JavaScript/TypeScript and React.
 **Talk to me about:** web development, Unity games, automation, applied AI.
 **Contact:** alexandremiguelsilva112002@gmail.com
 
