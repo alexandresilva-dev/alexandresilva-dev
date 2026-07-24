@@ -9,7 +9,7 @@ Currently looking for my first professional opportunity in the field.
 **Right now:** applying to working student / internship positions in software engineering.
 **Learning:** full-stack web development — Java/Spring Boot, JavaScript/TypeScript and React.
 **Talk to me about:** web development, Unity games, automation, applied AI.
-**Contact:** alexandremiguelsilva112002@gmail.com
+**Contact:** [LinkedIn](https://www.linkedin.com/in/alexandresilva-dev/) or [GitHub](https://github.com/alexandresilva-dev)
 
 ---
 
